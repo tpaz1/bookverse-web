@@ -11,5 +11,5 @@ This document summarizes the SLSA (Supply-chain Levels for Software Artifacts) p
 * **Generated At**: `2025-09-12T09:20:26Z`
 * **Builder**: `GitHub Actions`
 * **Workflow**: `CI`
-* **Repository**: `yonatanp-jfrog/bookverse-web`
+* **Repository**: `tpaz1/bookverse-web`
 * **Commit**: `test-commit`
