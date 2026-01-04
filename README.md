@@ -73,3 +73,4 @@ For the non-JFrog evidence plan and gates, see: `../bookverse-demo-init/docs/EVI
 - [`promote.yml`](.github/workflows/promote.yml) — Promote the web app version through stages with evidence
 - [`promotion-rollback.yml`](.github/workflows/promotion-rollback.yml) — Roll back a promoted web application version (demo utility)
 # Demo update Tue Dec 30 16:10:12 IST 2025
+# Demo update Sun Jan  4 17:00:37 IST 2026
